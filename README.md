@@ -33,3 +33,5 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 ## License
+
+This is the demo project for git course on wexler.io
